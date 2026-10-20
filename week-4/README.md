@@ -4,9 +4,9 @@
 Test script, Test sessions, and Observation log submission for Week 4.
 
 ## TEST SCRIPT
-Task 1 – Attempt to add a plant to Garden.
-Task 2 – Attempt to remove a plant from Garden.
-Task 3 – Attempt to return to the home page.
+- Task 1 – Attempt to add a plant to Garden.
+- Task 2 – Attempt to remove a plant from Garden.
+- Task 3 – Attempt to return to the home page.
 
 ## TEST SESSION NOTES / OBSERVATION LOG
 User 1 – Boluwatife
