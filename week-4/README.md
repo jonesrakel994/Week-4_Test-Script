@@ -3,6 +3,9 @@
 ## Project Overview
 Test script, Test sessions, and Observation log submission for Week 4.
 
+## Deliverable Links
+- **Google Docs File:** [View File](https://docs.google.com/document/d/1SoxT-tZML30ykHnf7WNVxSsI4Y635UGOyAuCh0K3JyE/edit?usp=sharing)
+
 ## TEST SCRIPT
 - Task 1 – Attempt to add a plant to Garden.
 - Task 2 – Attempt to remove a plant from Garden.
